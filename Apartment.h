@@ -1,5 +1,6 @@
 #pragma once
 #include "Property.h"
+#include "taxrates.h"
 class Apartment : public Property {
     double square;
 public:
